@@ -1,0 +1,7 @@
+{
+  "name": "Speedy - Charlotte's AI Assistant",
+  "description": "A futuristic bilingual voice assistant for Charlotte Quémeras, powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
